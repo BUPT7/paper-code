@@ -1,6 +1,6 @@
 # paper-code
 This repository contains the code involved in the paper.
-## Figure2_p versus iterations
+## Figure2_p
 The code in "Figure2_p versus iterations" is the simulation result of Figure 2.  Figure 2 shows the allocating power of 4 users versus iterations considering two different initial points under the same conditions.
 ## Figure3_rate versus dlink
 The code in "Figure3_rate versus dlink" is the simulation result of Figure 3, which provides the results of sum rate versus the interlink distance dL. 
